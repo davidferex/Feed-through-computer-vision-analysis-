@@ -1,3 +1,5 @@
+This is my group's final project for CSCE 473 Computer Vision at University of Nebraska Lincoln.
+
 In the Report and Slides folder you can find our pdf with the final report, the slides we used for the presentation and the project proposal. PLEASE NOTE: the proposal is unchanged from what we originally submitted. Therefore, the objectives listed are not the same as the final objectives, since we had to change them because the original ones were almost impossible.
 
 In the code folder you can find the code for the 2 deep learning models 
