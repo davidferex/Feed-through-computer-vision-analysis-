@@ -15,3 +15,7 @@ In the TestImages folder you can find the folders with images for the model that
 detect the type of feed (class 1,2,3), and the other folders were both 
 used for the first deep learning model and texture segmentation. 
 PLEASE NOTE: We used this images for testing. The training images are not here since the folder is getting a big size and we don't want to have problems with submission in canvas. Just note that these images are taken from the same datasets that those used for training, so you can have an idea of how are they. If you really need the training images, please let us know and we will try to find a way to send them to you.
+
+## License
+
+This project is protected by copyright. Unless otherwise stated, copying, modifying, distributing, or using this content without the explicit permission of the author is not allowed.
